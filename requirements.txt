@@ -1,1 +1,3 @@
+Ensure to have python, pip, selenium, robotframework, robotframework-seleniumlibrary 
 
+with path updated (including path for chromedriver.exe) for windows
